@@ -1,0 +1,35 @@
+body
+{
+
+background: linear-gradient(rgb(0, 0, 0), rgb(9, 247, 215)); font-family:"Times New Roman", Times, serif;
+
+color: #ffffff; margin-top: 40px; background-repeat: no-repeat; background-attachment: fixed;
+
+height: 100%;
+}
+h1 {
+
+font-family: "", monospace; margin-top: 10px;
+
+}
+h2 {
+font-family: "Courier New", cursive;
+}
+
+
+input {
+margin: 8px 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 1px solid #ee1010; color: #160109;
+}
+#register {
+background-color: rgb(31, 26, 26);
+
+color: #160101; border-radius: 8%; border: 1px
+
+solid #140101; width:
+100px; height: 27px;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;
+
+}
